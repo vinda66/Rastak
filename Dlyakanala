@@ -38,6 +38,7 @@ if not LPH_OBFUSCATED then
     SWG_FullName = 'ts'
     SWG_FFA = false
 end;
+
 --- FABRICATED VALUES END!!!
 
 local workspace = cloneref(game:GetService("Workspace"))
